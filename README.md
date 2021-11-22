@@ -12,7 +12,7 @@ The synchronization of the activity from distinct brain areas has been proposed 
 at single-trial level, hence, avoiding averaging out non-phase-locked bursts of synchronization that are present in the dFC and may correspond to brain states relevant to determining, for instance, whether the information is being encoded during cognitive tasks by the coordinated activity of multiple cortical areas. Currently, xfrites - the testing repository associated to Frites (https://brainets.github.io/frites/) - has a function that estimates dFC in terms of the aforementioned metrics. 
 For the present project, we aim to integrate it with FRITES and, more specifically, we aim to improve the documentation of the function,  refine the current implementation and include code for unit testing. Other goals are to implement notebooks with examples that allow the user to have a better understanding of how to first, set the parameters to estimate the spectral connectivity and seconds, to interpret the metric's outcome, what are its advantages and drawbacks.
 
-**Dependences**
+**Dependencies**
 
 #### Frites
 pip install -U frites
