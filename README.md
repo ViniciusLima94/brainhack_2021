@@ -34,3 +34,6 @@ its advantages and drawbacks.
 
 ![image](.img/dFC.png)
 .
+
+**Collab**
+https://colab.research.google.com/drive/1Aw80BEP1OlnQv6OAwdW86TP66IJFzNca?usp=sharing
