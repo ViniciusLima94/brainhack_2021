@@ -4,7 +4,7 @@
 Integration of the single-trial time-resolved spectral connectivity (coherence; PLV) in Frites
 
 **Project lead and collaborators:** 
-Lima, Vinicius; Combrisson, Etienne (@kNearNeighbors)(@EtienneCmb)
+Lima, Vinicius; Combrisson, Etienne 
 
 **Description:**
 The synchronization of the activity from distinct brain areas has been proposed to be one of the mechanisms by which them integrate while processing similar inputs in order to exchange information or encode the stimulus (Buzsaki G.,2006; Fries P., 2015). Based on this hypothesis, 
