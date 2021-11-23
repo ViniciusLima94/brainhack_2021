@@ -32,5 +32,5 @@ its advantages and drawbacks.
 
 **Striking Image**
 
-![image](https://user-images.githubusercontent.com/17538901/142253801-e6a5ed54-e502-44db-84e7-6978fe993ef0.png)
+![image](.img/dFC.png)
 .
