@@ -31,19 +31,6 @@ its advantages and drawbacks.
 - Python 80%
 
 **Striking Image**
-![Dynamic functional connectivity estimates with single-trial coherence](image.png "coherence dFC")
-<!-- Upload an image related to your project. -->
 
-## Project submission
-
-### Submission checklist
-
-*Once the issue is submitted, please check items in this list as you add under 'Additional project info'*
-
-- [x] Link to your project: could be a code repository, a shared document, etc.
-
-- [x] Goals for the Brainhack: describe what you want to achieve during this brainhack. 
-
-- [x] Skills: list skills that would be particularly suitable for your project (coding and non-coding)
 ![image](https://user-images.githubusercontent.com/17538901/142253801-e6a5ed54-e502-44db-84e7-6978fe993ef0.png)
 .
