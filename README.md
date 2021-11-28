@@ -39,6 +39,14 @@ its advantages and drawbacks.
 
 ```conda env create -f brainhack.yml```
 
-**Collab**
+**Examples:**
+
+Exemples of the applicability of the methods can be found in the "notebooks"
+folder.
+
+**Collab:**
+
+To work on the project we will make use of a Google collab notebook, that can 
+be acessed via the link bellow:
 
 https://colab.research.google.com/drive/1Aw80BEP1OlnQv6OAwdW86TP66IJFzNca?usp=sharing
