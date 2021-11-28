@@ -9,12 +9,10 @@ import numpy as np
 import xarray as xr
 
 from frites.conn import conn_io
-from frites.io import set_log_level, logger  # check_attrs
+from frites.io import set_log_level, logger, check_attrs
 from frites.utils import parallel_func
-from .conn_tf import (_tf_decomp, _create_kernel, _smooth_spectra,
-                      _foi_average)
-# from xfrites.conn.conn_tf import (_tf_decomp, _create_kernel,
-# _smooth_spectra, _foi_average)
+from .conn_tf import (_tf_decomp, _create_kernel,
+                                  _smooth_spectra, _foi_average)
 
 
 ###############################################################################
@@ -268,8 +266,7 @@ def conn_spec(
     # conversion
     conn = xr.DataArray(conn, dims=('trials', 'roi', 'freqs', 'times'),
                         name=metric, coords=(trials, roi_p, f_vec, times),
-                        attrs={**attrs, **cfg})
-# attrs=check_attrs({**attrs, **cfg}))
+                        attrs=check_attrs({**attrs, **cfg}))
     return conn
 
 
