@@ -33,9 +33,12 @@ its advantages and drawbacks.
 - Spectral analysis 50%
 - Python 80%
 
+## Set-up packages and enviroment
+
 **Install enviroment:**
 
 ```conda env create -f brainhack.yml```
 
 **Collab**
+
 https://colab.research.google.com/drive/1Aw80BEP1OlnQv6OAwdW86TP66IJFzNca?usp=sharing
