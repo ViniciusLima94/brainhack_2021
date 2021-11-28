@@ -6,6 +6,11 @@ Integration of the single-trial time-resolved spectral connectivity (coherence; 
 **Project lead and collaborators:** 
 Lima, Vinicius; Combrisson, Etienne 
 
+**Striking Image**
+
+![image](.img/dFC.png)
+.
+
 **Description:**
 The synchronization of the activity from distinct brain areas has been proposed to be one of the mechanisms by which them integrate while processing similar inputs in order to exchange information or encode the stimulus (Buzsaki G.,2006; Fries P., 2015). Based on this hypothesis, 
 the time-course of the functional connectivity (dFC) can be measured from brain signals using metrics that capture their phase-relation such as the cross-spectra, 
@@ -30,10 +35,9 @@ its advantages and drawbacks.
 - Spectral analysis 50%
 - Python 80%
 
-**Striking Image**
+**Install enviroment:**
 
-![image](.img/dFC.png)
-.
+conda env create -f brainhack.yml
 
 **Collab**
 https://colab.research.google.com/drive/1Aw80BEP1OlnQv6OAwdW86TP66IJFzNca?usp=sharing
