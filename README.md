@@ -35,7 +35,7 @@ its advantages and drawbacks.
 
 **Install enviroment:**
 
-conda env create -f brainhack.yml
+```conda env create -f brainhack.yml```
 
 **Collab**
 https://colab.research.google.com/drive/1Aw80BEP1OlnQv6OAwdW86TP66IJFzNca?usp=sharing

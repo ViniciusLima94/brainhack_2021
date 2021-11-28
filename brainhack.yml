@@ -32,4 +32,6 @@ dependencies:
     - scipy==1.7.2
     - six==1.16.0
     - xarray==0.20.1
+    - jupyterlab==3.2.4
+    - ipython
 prefix: /home/vinicius/anaconda3/envs/brainhack
