@@ -7,7 +7,7 @@ Integration of the single-trial time-resolved spectral connectivity (coherence; 
 Lima, Vinicius; Combrisson, Etienne 
 
 <!-- ![image](.img/dFC.png) -->
-<img src=".img/dFC.png" width="200">
+<img src=".img/dFC.png" width="500">
 
 **Description:**
 The synchronization of the activity from distinct brain areas has been proposed to be one of the mechanisms by which them integrate while processing similar inputs in order to exchange information or encode the stimulus (Buzsaki G.,2006; Fries P., 2015). Based on this hypothesis, 
